@@ -117,3 +117,31 @@
     color: #FFFFFF;
     margin: 8px 9px;
 }
+.icon{
+    height:40vh;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #e5e5e9;
+}
+.icon-teks{
+    width:340px;
+    height:230px;
+    text-align: center;
+    background-color: #fff;
+    border-radius:5%;
+    padding-top:10px;
+    margin:10px;
+}
+.font-teks{
+    margin:20px;  
+}
+.icon-teks i{
+    font-size: 40px;
+    color:#8f1ba7;
+}
+.icon-teks .teks-conx{
+    font-size:16px;
+    padding:7px;
+    font-weight: 400;
+}
